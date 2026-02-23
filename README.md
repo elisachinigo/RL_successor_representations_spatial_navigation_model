@@ -1,4 +1,4 @@
-Rienforcement Learning Model of Successor Representations for spatial navigation
+**Rienforcement Learning Model of Successor Representations for spatial navigation**
 
 Project implements a proposed model of intuitive planning (Baram et al., 2018) based on biologically-plausible neural features and assesses its ability to support successful goal-directed behaviour in a range of environments (see figure).
 
